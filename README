@@ -1,0 +1,15 @@
+== ext.easy_custom_fields.php
+
+ExpressionEngine extension that exposes custom fields via $SESS
+
+== Current Version
+
+1.0 (8 September 2009)
+
+== Requirements
+
+None.
+
+== License
+
+ext.easy_custom_fields.php is distributed under the liberal MIT License.
